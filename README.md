@@ -1,1 +1,1 @@
-# landing_page
+Last assignment as part of the Odin Project before moving onto Javascript. The goal is to create an entire web page from a design provided by the Odin Project.
